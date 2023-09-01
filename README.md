@@ -5,7 +5,7 @@ My name is Dmytro and I'm passionate about learning and honing my programming sk
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [lyashokdima1@gmail.com](mailto:lyashokdima1@gmail.com)
-* 🧠  I'm learning node.js
+* 🧠  I'm learning full-stack  technology stack
 * 🤝  I'm open to collaborating on Let's connect and learn together! Feel free to reach out if you share my passion for web development or if you'd like to collaborate on exciting projects.
 
 ### Skills

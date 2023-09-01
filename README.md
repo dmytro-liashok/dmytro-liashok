@@ -1,10 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dmytro Liashok
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Welcome to my GitHub!
 ======================================================================================================================================
 
-A passionate frontend developer
--------------------------------
-
-I'm passionate about learning and honing my programming skills. I believe that continuous learning is key to success in the ever-evolving field of technology.
+My name is Dmytro and I'm passionate about learning and honing my programming skills. I believe that continuous learning is key to success in the ever-evolving field of technology.
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [lyashokdima1@gmail.com](mailto:lyashokdima1@gmail.com)
